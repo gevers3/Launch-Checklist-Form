@@ -6,10 +6,18 @@ div {
     text-align: left;
 }
 
-#faultyItems {
-    visibility: hidden;   
+#faultyItemsHidden {
+    visibility: hidden;
 }
-
+#faultyItemsVisible {
+    visibility: visible;
+}
+#textRed {
+    color:red;
+}
+#textGreen {
+    color:green;
+}
 #launchForm {
     background-color: #ECF0F1;
     text-align: center;
